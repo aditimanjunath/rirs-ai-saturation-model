@@ -2,6 +2,7 @@
 ai model forecasting rental inflation risk score (rirs) using airbnb saturation data
 
 🚀 Overview
+
 Built a supervised Gradient Boosting Regressor pipeline to predict a novel Rental Inflation Risk Score (RIRS), quantifying how short-term rental saturation (via Airbnb) drives long-term rent inflation and displacement.
 
 🛠️ Technical Highlights
